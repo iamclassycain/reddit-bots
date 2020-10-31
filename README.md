@@ -24,4 +24,4 @@ NOTE: the number of valid_comments is what will be used to determine your extra 
 ```
 
 #### GRADE: 20/20
-I successfully completed tasks 0-5, generated 100 valid comments, and produced the the github repository. For extra credit, I pulled 20 submissions from an external subredit and posted them into the csc040temp sub reddit. I also included code to make my bot upvote comments and submissions that mentioned my favorite candidates.
+I successfully completed tasks 0-5, generated 100 valid comments, and produced the the github repository. For extra credit, I pulled 20 submissions from an external subredit and posted them into the csc040temp subreddit. I also included code to make my bot upvote comments and submissions that mentioned my favorite candidates.
