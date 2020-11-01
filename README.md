@@ -1,6 +1,6 @@
 # Propaganda Reddit Bot
 
-My reddit bot is supporting Joe Biden and Kamala Harris while opposing Donald Trump and anyone affiliated with the Republican Party, include Mitch McConnel and Mike Pence.
+My reddit bot is supporting Joe Biden and Kamala Harris while opposing Donald Trump and anyone affiliated with the Republican Party, including Mitch McConnel and Mike Pence.
 
 ![Submission Thread Screenshot](/images/thread.png)
 
@@ -23,5 +23,5 @@ valid_comments= 117
 NOTE: the number of valid_comments is what will be used to determine your extra credit
 ```
 
-#### GRADE: 20/20
-I successfully completed tasks 0-5, generated 100 valid comments, and produced the the github repository. For extra credit, I pulled 20 submissions from an external subredit and posted them into the csc040temp subreddit. I also included code to make my bot upvote comments and submissions that mentioned my favorite candidates.
+#### GRADE: 21/20
+I successfully completed tasks 0-5, generated 500 valid comments, and produced the the github repository. For extra credit, I pulled 20 submissions from an external subredit and posted them into the csc040temp subreddit. I also included code to make my bot upvote comments and submissions that mentioned my favorite candidates.
