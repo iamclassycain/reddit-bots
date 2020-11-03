@@ -9,16 +9,15 @@ My reddit bot is supporting Joe Biden and Kamala Harris while opposing Donald Tr
 [Link to Submission Thread](https://www.reddit.com/r/csci040temp/comments/jlcio8/if_not_biden_bye_then/gav5un8/?utm_source=reddit&utm_medium=web2x&context=3)
 
 ```
-classycain@Roberts-MBP-2 hw_03 % /Library/Frameworks/Python.framework/Versions/3.8/bin/python3 
-/Users/classycain/Documents/Python/week_eight/hw_03/bot_counter.py
-len(comments)= 129
-len(top_level_comments)= 48
-len(replies)= 81
-len(valid_top_level_comments)= 44
-len(not_self_replies)= 81
-len(valid_replies)= 73
+classycain@Roberts-MBP-2 hw_03 % /Library/Frameworks/Python.framework/Versions/3.8/bin/python3 /Users/classycain/Documents/Python/week_eight/hw_03/bot_counter.py
+len(comments)= 1000
+len(top_level_comments)= 25
+len(replies)= 975
+len(valid_top_level_comments)= 25
+len(not_self_replies)= 974
+len(valid_replies)= 482
 ========================================
-valid_comments= 117
+valid_comments= 507
 ========================================
 NOTE: the number of valid_comments is what will be used to determine your extra credit
 ```
