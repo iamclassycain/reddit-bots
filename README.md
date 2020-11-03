@@ -6,7 +6,7 @@ My reddit bot is supporting Joe Biden and Kamala Harris while opposing Donald Tr
 
 ##### This is a screenshot of a submission thread my bot extracted from a subreddit supporting Joe Biden and Kamala Harris. I like it because the submission title defines my mood about the election
 
-[Link to Submission Thread](https://www.reddit.com/r/csci040temp/comments/jlcio8/if_not_biden_bye_then/?utm_source=share&utm_medium=web2x&context=3)
+[Link to Submission Thread](https://www.reddit.com/r/csci040temp/comments/jlcio8/if_not_biden_bye_then/gav5un8/?utm_source=reddit&utm_medium=web2x&context=3)
 
 ```
 classycain@Roberts-MBP-2 hw_03 % /Library/Frameworks/Python.framework/Versions/3.8/bin/python3 
