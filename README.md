@@ -11,13 +11,13 @@ My reddit bot is supporting Joe Biden and Kamala Harris while opposing Donald Tr
 ```
 classycain@Roberts-MBP-2 hw_03 % /Library/Frameworks/Python.framework/Versions/3.8/bin/python3 /Users/classycain/Documents/Python/week_eight/hw_03/bot_counter.py
 len(comments)= 1000
-len(top_level_comments)= 25
-len(replies)= 975
-len(valid_top_level_comments)= 25
-len(not_self_replies)= 974
-len(valid_replies)= 482
+len(top_level_comments)= 43
+len(replies)= 957
+len(valid_top_level_comments)= 43
+len(not_self_replies)= 955
+len(valid_replies)= 584
 ========================================
-valid_comments= 507
+valid_comments= 627
 ========================================
 NOTE: the number of valid_comments is what will be used to determine your extra credit
 ```
